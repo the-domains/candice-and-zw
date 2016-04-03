@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Our Wedding Pictures]]></title>
         <description><![CDATA[Our Wedding Pictures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/candice-and-zw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:35:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 13:37:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/candice-and-zw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0710c36d-0a97-4fde-8745-013bf6787d08.jpg">]]></description>
+            <link>https://thegrid.ai/candice-and-zw/b141aca5-eb63-449c-96d0-c4dd6f3efeba/index.html</link>
+            <guid isPermaLink="false">b141aca5-eb63-449c-96d0-c4dd6f3efeba</guid>
+            <pubDate>Sun, 03 Apr 2016 13:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b026b19-2d50-421e-a801-0b76a2a94573.jpg">]]></description>
-            <link>undefined25bf6ea3-f5cd-4ab3-831c-e7115b4868c6/index.html</link>
+            <link>https://thegrid.ai/candice-and-zw/25bf6ea3-f5cd-4ab3-831c-e7115b4868c6/index.html</link>
             <guid isPermaLink="false">25bf6ea3-f5cd-4ab3-831c-e7115b4868c6</guid>
             <pubDate>Sun, 03 Apr 2016 13:34:29 GMT</pubDate>
         </item>
