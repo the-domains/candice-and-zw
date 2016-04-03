@@ -1,7 +1,7 @@
 name: 'Candice&ZW'
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.16117630619555712
+layout_spectrum: 0
+typography_spectrum: 0.02993
 title: Our Wedding Pictures
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#492f2e'
     - '#b5adaa'
     - '#8c7355'
-  brandStrength: 0.25
-  lightness: 0.8125
-  saturation: 0.75
-  rhythmicContrast: 0.25
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
