@@ -4,8 +4,15 @@
         <description><![CDATA[Our Wedding Pictures]]></description>
         <link>https://thegrid.ai/candice-and-zw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 14:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 15:17:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/candice-and-zw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[12 First March-In]]></title>
+            <description><![CDATA[<article><h1>12 First March-In</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5852456e244aefe28ea745bca91f8947b7a34bdc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/candice-and-zw/12-first-march-in/index.html</link>
+            <guid isPermaLink="false">a7679e73-d0f6-44bf-839d-5cba8255d4e0</guid>
+            <pubDate>Mon, 04 Apr 2016 15:08:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11 Receiving Guests]]></title>
             <description><![CDATA[<article><h1>11 Receiving Guests</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a8d24af6a214eb9bada6d0c43034537ff32c6d9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/candice-and-zw/0820de86-7018-47f9-8701-5d9b23a0abda/index.html</link>
             <guid isPermaLink="false">0820de86-7018-47f9-8701-5d9b23a0abda</guid>
             <pubDate>Mon, 04 Apr 2016 09:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32a8cc1f-a9c7-42c1-91d4-08408a9a0c10.jpg">]]></description>
-            <link>https://thegrid.ai/candice-and-zw/2-gate-crash/index.html</link>
-            <guid isPermaLink="false">63b3d906-93fd-4b1c-92b4-bd744d025e2d</guid>
-            <pubDate>Mon, 04 Apr 2016 08:53:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
